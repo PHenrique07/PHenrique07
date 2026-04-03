@@ -1,10 +1,9 @@
-
 Estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo e Técnico em Informática pelo Senac. 
 
 <br>
 
 <a href="https://github.com/PHenrique07">
-  <img width="380" src="https://github-readme-stats.vercel.app/api/top-langs?username=PHenrique07&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top Langs" />
+  <img width="380" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=PHenrique07&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top Langs" />
 </a>
 
 <br><br>
