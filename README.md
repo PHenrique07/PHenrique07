@@ -1,8 +1,13 @@
+
 Estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo e Técnico em Informática pelo Senac. 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PHenrique07&layout=compact&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/PHenrique07)
-
 <br>
+
+<a href="https://github.com/PHenrique07">
+  <img width="380" src="https://github-readme-stats.vercel.app/api/top-langs?username=PHenrique07&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top Langs" />
+</a>
+
+<br><br>
 
 <div style="display: inline-block;">
   <img align="center" alt="PHP" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
@@ -15,12 +20,16 @@ Estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal de São
   <img align="center" alt="Google Cloud" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
 </div>
 
-<br>
+<br><br>
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-santos-da-silva-40b521349/)
+<a href="https://www.linkedin.com/in/pedro-henrique-santos-da-silva-40b521349/" target="_blank">
+  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
 ---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PHenrique07/PHenrique07/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PHenrique07/PHenrique07/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PHenrique07/PHenrique07/output/github-contribution-grid-snake.svg">
+</picture>
