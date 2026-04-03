@@ -1,12 +1,10 @@
 Estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo e Técnico em Informática pelo Senac. 
 
-<a href="https://github.com/PHenrique07">
-  <img align="left" width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHenrique07&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PHenrique07&layout=compact&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/PHenrique07)
 
-<br><br><br><br><br><br><br><br><br>
+<br>
 
-<div style="display: inline_block"><br>
+<div style="display: inline-block;">
   <img align="center" alt="PHP" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="center" alt="Python" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="Java" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
@@ -19,16 +17,10 @@ Estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal de São
 
 <br>
 
-<div>
-  <a href="https://www.linkedin.com/in/pedro-henrique-santos-da-silva-40b521349/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-santos-da-silva-40b521349/)
 
 ---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PHenrique07/PHenrique07/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PHenrique07/PHenrique07/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PHenrique07/PHenrique07/output/github-contribution-grid-snake.svg">
-</picture>
+  <source media="(prefers-color-scheme: light)" srcset="
